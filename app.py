@@ -1508,14 +1508,14 @@ class AboutPage(QWidget):
         info_col.addWidget(role_lbl)
 
         # GitHub link button
-        github_btn = QPushButton("  🐙  github.com/engvikrant21")
+        github_btn = QPushButton("  🐙  github.com/vikrant-eng")
         github_btn.setObjectName("btn_secondary")
         github_btn.setCursor(Qt.PointingHandCursor)
         github_btn.setFixedHeight(36)
         github_btn.setFixedWidth(260)
         github_btn.setFont(QFont("Segoe UI", 12))
         github_btn.clicked.connect(
-            lambda: webbrowser.open("https://github.com/engvikrant21")
+            lambda: webbrowser.open("https://github.com/vikrant-eng")
         )
         info_col.addWidget(github_btn)
 

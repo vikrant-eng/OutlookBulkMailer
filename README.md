@@ -283,7 +283,7 @@ The resulting `OutlookBulkMailer.exe` is placed in `dist/`. It contains the embe
 
 ## Developer
 
-**Vikrant Yadav** · [@engvikrant21](https://github.com/engvikrant21)
+**Vikrant Yadav** · [@vikrant-eng](https://github.com/vikrant-eng)
 
 ---
 
